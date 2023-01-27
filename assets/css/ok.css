@@ -1,0 +1,87 @@
+
+@font-face{
+	font-family:hk;
+	src:url(fuentes/hk.ttf);
+	}
+	
+@font-face{
+	font-family:X2;
+	src:url(fuentes/X2.ttf);
+	}
+	
+body{
+	background-image:url(../img/8.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+    background-size: 100% 100%;
+
+}
+
+
+    	
+
+
+	
+@media only screen and (max-width: 480px) {
+  img {
+    width: 100%;
+  }
+}	
+	
+.lux{
+	color:black;
+	font:bold 60px hk,verdana,sans-serif;
+		margin-top:-10px;	
+}
+
+.lu{
+	color:#4169E1;
+	font:bold 60px hk,verdana,sans-serif;
+	text-align: left;
+	margin-left:100px;
+	margin-top:-150px;
+
+}
+
+
+
+#f1{
+	
+	margin-left:100px;
+	width:100%;
+}
+
+#f2{
+	margin-left:-5px;
+	width: 30%;
+}
+
+#f3{
+	
+	margin-left:100px;
+	width: 26%;
+	margin-top:10px;
+}
+
+#f4{
+	
+	margin-left:100px;
+	width: 30%;
+	margin-top:-10px;
+}
+
+.cesar2{
+	color:black;
+	font:bold 22px X2,verdana,sans-serif;
+	margin-left:-30px;
+	margin-top:-15px;
+}
+
+.cesar3{
+	color:black;
+	font:bold 22px X2,verdana,sans-serif;
+	margin-left:-50px;
+	margin-top:-15px;
+}
+
